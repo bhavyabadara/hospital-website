@@ -1,0 +1,52 @@
+*{font-family: 'Lato', sans-serif;}
+body{padding:0; margin:0;}
+.background-image{width:100%; background:url(../images/slide-doctor-bg.jpg) center top;min-height:600px;  padding:0 0 0 0}
+.d-flex{display: flex;}
+.main-class{width:1140px;margin:auto;}
+
+.heading01 p{color:#fff;}
+.heading02{padding-top: 17px;}
+.heading02 a {text-decoration: none;color:#13bfb1;padding-left:20px;}
+.heading02 a:hover{text-decoration:underline;}
+.nav-header {background-color: #ffff;padding:20px 20px;}
+.nav-header01{margin:auto;}
+.nav-header01 a {text-decoration: none;padding: 0 15px;font-size: 15px;color: #000;}
+.nav-header01 a:hover{color:#13bfb1;}
+.slider-contant{width:100%;}
+.slider-contant h2{font-size: 50px;color: #000;font-weight: 300;padding-top: 60px}
+.slider-contant span{color: #1ac1b3;}
+.slider-contant p{font-size: 25px;}		
+.slider-contant a{text-decoration:none;color:white;padding:10px 15px;background:#13bfb1;}
+.slider-left{width:60%;padding-left:200px;}
+.slider-img img{width:100%;}
+
+.main-heading1{text-align:center;font-size:20px;font-weight: 300px;}	
+.images{text-align:center;padding-top:20px;}	
+.capsule{padding:15px 5px;}
+.button{text-align: center;}
+.button a{text-decoration:none;border:1px solid #d6d6d6;background:#eaeaea;border-radius:5px;padding:10px 10px;color:#767676;}
+
+.background{background:#ecf7f6;padding:70px;margin-top: 60px;}
+.openinghours{padding:0 10px;text-align: center;}
+.openinghours h2{margin-top: -255px;}
+.openinghours p span{color:#13bfb1}
+.getintouch{padding:0 10px;text-align: center;}
+.getintouch h2{margin-top: -250px;}
+
+.quickheading {text-align: center;}
+.quickheading h5{color: #a8a8a8;font-size: 14px;}
+.quickheading span{color:#13bfb1;font-size: 42px;font-weight: 300;}	
+.best-provide-box{width:33%;}
+.photos img {padding:20px;}
+
+.background1{background: #13bfb1;margin:40px 0px;padding:50px 0px;}
+.sign-button {margin:auto;}
+.sign-button a{color:#767676;text-decoration:none;border:1px solid #d6d6d6;background:#eaeaea;border-radius:5px;padding:10px 10px;}
+.sign-text p{color: #fff;font-size:25px;}
+
+.text{width:25%;padding-left:10px;}
+.doctor img{width:90%;}
+.line-color{border:1px solid #13bfb1;}
+
+.footer{background: #545454;color:#fff;padding:10px 10px;}
+.footer a{color:#13bfb1;padding:15px 0px;}
